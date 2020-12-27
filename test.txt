@@ -1,2 +1,4 @@
 工作区的新文件
 测试git diff
+测试git diff2
+
